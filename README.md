@@ -31,8 +31,8 @@
 
 | Platform     | Stats Card |
 |--------------|------------|
-| Codeforces   | [![CF Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME)](https://codeforces.com/profile/PHOX_) |
-| CodeChef     | [![CC Stats](https://codechef-readme-stats.onrender.com/YOUR_CODECHEF_USERNAME?v=1)](https://www.codechef.com/users/phox) |
+| Codeforces   | [![CF Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PHOX_)](https://codeforces.com/profile/PHOX_) |
+| CodeChef     | [![CC Stats](https://codechef-readme-stats.onrender.com/phox?v=1)](https://www.codechef.com/users/phox) |
 
 
 <!--
