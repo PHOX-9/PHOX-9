@@ -2,9 +2,9 @@
 
 <img src="Assets/Hollow Knight.gif" width="220">
 
-## 💻 Aspiring Web Developer | Unity Game Developer | AI/ML Enthusiast
+### 💻 Aspiring Web Developer | Unity Game Developer | AI/ML Enthusiast
 
-## 🎯 Passionate about building interactive and user-friendly applications
+### 🎯 Passionate about building interactive and user-friendly applications
 
 <!--
 **PHOX-9/PHOX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
