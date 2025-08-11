@@ -19,7 +19,7 @@
 [![Languages](https://skillicons.dev/icons?i=java,cpp,c,cs,python,js,html,css)]()
 
 **Tools:**  
-[![Tools](https://skillicons.dev/icons?i=figma,unity)]() <img src="Assets/FL Studio.png" width="48" height="48" alt="FL Studio" style="background-color:#242938; border-radius:8px; padding:4px; vertical-align: middle; margin-left: 8px;" />
+[![Tools](https://skillicons.dev/icons?i=figma,unity)]() <img src="Assets/FL Studio.png" width="48" height="48" alt="FL Studio" />
 
 <!--
 **PHOX-9/PHOX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
