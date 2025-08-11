@@ -2,8 +2,6 @@
 
 <img src="Assets/Hollow Knight.gif" width="220">
 
-### 💻 Aspiring Web Developer | Unity Game Developer | AI/ML Enthusiast
-
 ### 🎯 Passionate about building interactive and user-friendly applications
 
 ## Socials:
@@ -22,6 +20,7 @@
 [![Tools](https://skillicons.dev/icons?i=figma,unity)]() <img src="Assets/FL Studio.png" width="48" height="48" alt="FL Studio" />
 
 ## Github Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PHOX-9&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHOX-9&theme=radical" height="160" />
@@ -30,11 +29,22 @@
 
 ## Competitive Programming Profiles
 
-| Platform     | Stats Card |
-|--------------|------------|
-| Codeforces   | [![CF Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PHOX_)](https://codeforces.com/profile/PHOX_) |
-| CodeChef     | [![CC Stats](https://codechef-readme-stats.onrender.com/phox?v=1)](https://www.codechef.com/users/phox) |
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.codechef.com/users/phox">
+        <img src="https://cp-logo.vercel.app/codechef/phox" alt="CodeChef Rating"><br>
+        <b>CodeChef</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/PHOX_">
+        <img src="https://cp-logo.vercel.app/codeforces/PHOX_" alt="Codeforces Rating"><br>
+        <b>Codeforces</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 **PHOX-9/PHOX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
