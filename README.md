@@ -29,17 +29,17 @@
 
 ## Competitive Programming Profiles
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.codechef.com/users/phox">
-        <img src="https://cp-logo.vercel.app/codechef/phox" alt="CodeChef Rating"><br>
+      <a href="https://www.codechef.com/users/phox" target="_blank">
+        <img src="https://img.shields.io/badge/dynamic/json?label=CodeChef%20Rating&logo=codechef&color=orange&query=$.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/phox" alt="CodeChef Rating" /><br>
         <b>CodeChef</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://codeforces.com/profile/PHOX_">
-        <img src="https://cp-logo.vercel.app/codeforces/PHOX_" alt="Codeforces Rating"><br>
+      <a href="https://codeforces.com/profile/PHOX_" target="_blank">
+        <img src="https://img.shields.io/badge/dynamic/json?label=Codeforces%20Rating&logo=codeforces&color=blue&query=$.rating&url=https://competitive-coding-api.herokuapp.com/api/codeforces/PHOX_" alt="Codeforces Rating" /><br>
         <b>Codeforces</b>
       </a>
     </td>
