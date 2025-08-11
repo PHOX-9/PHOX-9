@@ -23,7 +23,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=figma,unity)]()
 
-<img src="assets/flstudio.png" width="48" height="48" alt="FL Studio" />
+<img src="Assets/FL Studio.png" width="48" height="48" alt="FL Studio" />
 <!--
 **PHOX-9/PHOX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
