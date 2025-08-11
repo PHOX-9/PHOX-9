@@ -29,10 +29,12 @@
 
 ## Competitive Programming Profiles
 
+<p>
       <a href="https://codeforces.com/profile/PHOX_">
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PHOX_" alt="Codeforces Stats" />
       </a>
-
+      </p>
+ 
 <!--
 **PHOX-9/PHOX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
