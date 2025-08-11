@@ -29,16 +29,18 @@
 
 ## Competitive Programming Profiles
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
-      [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PHOX_)](https://codeforces.com/profile/PHOX_)
+    <td>
+      <a href="https://codeforces.com/profile/PHOX_">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PHOX_" alt="Codeforces Stats" />
+      </a>
     </td>
-    <td align="center">
- [![CodeChef Stats](https://codechef-readme-stats.onrender.com/phox?v=1)](https://www.codechef.com/users/phox)
-
+    <td>
+      <a href="https://www.codechef.com/users/phox">
+        <img src="https://leetcard.jacoblin.cool/phox?site=codechef" alt="CodeChef Stats" />
+      </a>
     </td>
-
   </tr>
 </table>
 
