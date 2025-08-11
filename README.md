@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi👋 I'm PHØX
+# 💻 Aspiring Web Developer | Unity Game Developer | AI/ML Enthusiast  
+# 🎯 Passionate about building interactive and user-friendly applications
+<img src="Assets/Hollow Knight.gif" width="220">
 
-<img src="Assets/Hollow Knight.gif" height="300">
+
 <!--
 **PHOX-9/PHOX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
