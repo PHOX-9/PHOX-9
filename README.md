@@ -21,6 +21,20 @@
 **Tools:**  
 [![Tools](https://skillicons.dev/icons?i=figma,unity)]() <img src="Assets/FL Studio.png" width="48" height="48" alt="FL Studio" />
 
+## Github Stats:
+
+![PHØX's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+
+## Competitive Programming Profiles
+
+| Platform     | Stats Card |
+|--------------|------------|
+| Codeforces   | [![CF Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME)](https://codeforces.com/profile/PHOX_) |
+| CodeChef     | [![CC Stats](https://codechef-readme-stats.onrender.com/YOUR_CODECHEF_USERNAME?v=1)](https://www.codechef.com/users/phox) |
+
+
 <!--
 **PHOX-9/PHOX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
