@@ -37,8 +37,8 @@
       </a>
     </td>
     <td>
-      <a href="https://www.codechef.com/users/phox">
-        <img src="https://leetcard.jacoblin.cool/phox?site=codechef" alt="CodeChef Stats" />
+      <a href="https://www.codechef.com/users/phox" target="_blank">
+        <img src="https://codechef-readme-stats.onrender.com/phox?v=1" alt="CodeChef Stats" />
       </a>
     </td>
   </tr>
