@@ -27,6 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHOX-9&layout=compact&theme=radical" height="160" />
 </p>
 
+<!--
 ## Competitive Programming Profiles
 
 <p>
@@ -34,7 +35,7 @@
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PHOX_" alt="Codeforces Stats" />
       </a>
       </p>
- 
+   -->
 <!--
 **PHOX-9/PHOX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
