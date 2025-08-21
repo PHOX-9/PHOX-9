@@ -23,8 +23,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PHOX-9&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHOX-9&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHOX-9&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHOX-9&theme=radical" height="160" />
 </p>
 
 <!--
