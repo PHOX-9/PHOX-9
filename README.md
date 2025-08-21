@@ -2,7 +2,7 @@
 
 <img src="Assets/Hollow Knight.gif" width="220">
 
-### 🎯 Passionate about building interactive and user-friendly applications
+### 🔥 Currently learning and building in coding, AI, games, and web development.
 
 ## Socials
 
